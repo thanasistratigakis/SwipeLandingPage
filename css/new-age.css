@@ -247,7 +247,8 @@ section.download .badges .badge-link img {
 }
 
 section.youtube {
-  color: black
+  color: black;
+  background: black;
 }
 
 section.features .section-heading {
