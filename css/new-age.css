@@ -223,6 +223,10 @@ header.masthead .device-container .screen img {
   }
 }
 
+section.youtube {
+  background: #037AFF;
+}
+
 section.download {
   position: relative;
   padding: 150px 0;
@@ -262,11 +266,6 @@ section.download .badges .badge-link img {
   section.download h2 {
     font-size: 70px;
   }
-}
-
-section.youtube {
-  color: black;
-  background: black;
 }
 
 section.features .section-heading {
