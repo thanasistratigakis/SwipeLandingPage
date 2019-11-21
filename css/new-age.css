@@ -225,18 +225,19 @@ header.masthead .device-container .screen img {
 
 section.youtube {
   background: #037AFF;
+  padding-bottom: 0px;
 }
-
 
 section.download {
   position: relative;
-  padding: 150px 0;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 section.download h2 {
   font-size: 50px;
   margin-top: 0;
-  color: white
+  color: white;
 }
 
 section.download p {
